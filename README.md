@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Stats](https://raw.githubusercontent.com/krand443/github-stats/main/svg/stats-noir.svg)
+
 <!--
 **krand443/krand443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
